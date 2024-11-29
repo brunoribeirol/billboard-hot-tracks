@@ -34,8 +34,8 @@ The dataset includes the following key columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/brunoribeirol/billboard-hot-100-analysis.git
-   cd billboard-hot-100-analysis
+   git clone https://github.com/brunoribeirol/billboard-hot-tracks.git
+   cd billboard-hot-tracks
   
 2. Run the notebook locally:
 - Ensure you have Jupyter Notebook or Jupyter Lab installed.
